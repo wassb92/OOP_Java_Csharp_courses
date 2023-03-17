@@ -1,0 +1,41 @@
+*.class
+# Fichiers générés par Visual Studio
+bin/
+obj/
+
+# Fichiers de sauvegarde
+*.bak
+*.log
+
+# Fichiers de cache
+[Tt]humbs.db
+*.cache
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers de projet Visual Studio
+*.csproj.user
+*.suo
+*.user
+
+# Fichiers de test NUnit
+TestResult.xml
+*.VisualState.xml
+
+# Fichiers d'analyse de code tiers
+ReSharper*/
+*.resharper
+*.DotSettings
+*.csproj.DotSettings
+
+# Fichiers NuGet
+packages/
+*.nupkg
+*.paket
+
+# Fichiers de sortie du compilateur
+*.dll
+*.exe
+*.pdb
